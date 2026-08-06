@@ -12,7 +12,7 @@ class Solution:
             if n == 0:
                 product = 0
                 
-            # Check divisibility
+            
             if product % t == 0:
                 return n
             
